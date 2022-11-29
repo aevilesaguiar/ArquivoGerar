@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ArquivoGerar:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ArquivoGerar_jar</output-path>
+    <root id="archive" name="ArquivoGerar.jar">
+      <element id="module-output" name="ArquivoGerar" />
+    </root>
+  </artifact>
+</component>
